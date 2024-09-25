@@ -1,0 +1,6 @@
+alt + insert +  selecionar construtor ou get criar  na classe principal
+
+exemplo: public String modelo;
+    private float ponta;
+    private boolean tampada;
+    private String cor;
